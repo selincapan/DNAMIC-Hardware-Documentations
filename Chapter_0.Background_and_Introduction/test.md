@@ -43,13 +43,13 @@ Our lab's solution to this problem was to create a home-cage based operant box s
 - All design files and code are open source - Contribution from members of the research community will improve this project and set forth new avenues for better tools in behavioral neuroscience research. Being open source also means that the software is free. For comparision, Med Associates requires a compatible software rig to be purchased with its boxes. Med Associates rig that supports up to 8 boxes cost \\$6800. AIM runs on open-source Arduino platform, that supports unlimited number of Arduino microprocessors.
 
 ### Quick Cost Comparison Chart
-- (For 8 boxes)
+- For 8 boxes
 
 Cost| Med Associates Boxes | Arduino Instrumental Modules (AIM)
 ------|:-------:| -----
-**Box** | 8 x \\$4000 = \\$32,000 | \\$340* + (8 x \\$200) = \\$1,940
-**Software** | \\$6,800 | \\$0  
-**Total** | \\$38,800 | \\$1,940
+**Box** | 8 x \$4000 = \$32,000 | \$340 + (8 x \$200) = \$1,940
+**Software** | \$6,800 | \$0  
+**Total** | \$38,800 | \$1,940
 
 
 
