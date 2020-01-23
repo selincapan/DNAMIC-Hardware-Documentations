@@ -56,4 +56,6 @@ Breaking off header pins (especially female types) correctly is surprisingly dif
 
 <p align = "center">
 <img src="https://github.com/selincapan/DNAMIC-Hardware-Documentations/blob/test_branch/Chapter_1.Getting_Started-Essential_Tips_and_Tricks/imgs/figure_5.png?raw=true">
-</p> 
+</p>  
+
+**Figure 5:** *An example of an improper way of breaking off pins. Notice that the metal header pin has fallen off from the black encasing.*
