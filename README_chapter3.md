@@ -19,8 +19,9 @@ One of my Principal Investigator's colleague has already implemented Arduino shi
 4)	a connector for MPR121 capacitive touch sensor (yellow box) - won’t be using in the lab  
 
 <p align="center">
-    <img title = "figure1" src="https://github.com/selincapan/DNAMIC-Hardware-Documentations/blob/finished-mardown-files/Chapter_3.OM1_Shield/imgs/Figure_1.png?raw=true" align=center width=300/><br><br>
-    <b><i>Figure 1:</b> Diagram of the OM1 Shield. Source: http://www.openmaze.org/ </i>
+    <img title = "figure1" src="https://github.com/selincapan/DNAMIC-Hardware-Documentations/blob/finished-mardown-files/Chapter_3.OM1_Shield/imgs/Figure_1.png?raw=true" align=center width=300/> <br><br>
+    <b><i>Figure 1:</b> Diagram of the OM1 Shield. Source: <a href="http://www.openmaze.org/ "> Link </a> </i>
+
 </p>
 
 Note that the picture above is a bare bone shield. The electrical connections are all imprinted within the printed circuit board (PCB), but it won’t work unless we attach the necessary components and the headers! This section will detail the steps on how to solder on the necessary components.
